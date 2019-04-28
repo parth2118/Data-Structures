@@ -1,2 +1,2 @@
 # Data-Structures
-Contains C codes of different data-structures
+Contains C code files of different data-structures. 
